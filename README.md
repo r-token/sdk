@@ -53,7 +53,7 @@ npm run build
 ```html
 <script src="hyper-sdk-bundle.js"></script>
 <script>
-  const sdk = await window.hyperSDK()
+  const SDK = await window.hyperSDK()
   // Look at the examples from here
 </script>
 ```
